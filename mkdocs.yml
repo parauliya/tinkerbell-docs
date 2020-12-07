@@ -8,6 +8,7 @@ nav:
   - Architecture: architecture.md
 
   - Services:
+    - services/index.md
     - Boots: services/boots.md
     - Hegel: services/hegel.md
     - OSIE: services/osie.md
